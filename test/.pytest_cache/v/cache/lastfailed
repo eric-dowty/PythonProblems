@@ -1,6 +1,0 @@
-{
-  "test_binary_search.py::TestBinarySearch::()::test_it_should_return_false_if_val_not_in_list": true, 
-  "test_first.py::TestFirst::()::test_get_val": true, 
-  "test_first.py::TestFirst::()::test_numbers_5_6": true, 
-  "test_reverse_word_order.py::TestReverseWordOrder": true
-}

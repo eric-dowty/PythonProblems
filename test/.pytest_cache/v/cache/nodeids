@@ -1,7 +1,0 @@
-[
-  "test_binary_search.py::TestBinarySearch::()::test_it_should_return_true_if_root_node_is_val", 
-  "test_binary_search.py::TestBinarySearch::()::test_it_should_search_the_left_side", 
-  "test_binary_search.py::TestBinarySearch::()::test_it_should_search_the_right_side", 
-  "test_binary_search.py::TestBinarySearch::()::test_it_should_return_false_if_val_not_in_list_high_val", 
-  "test_binary_search.py::TestBinarySearch::()::test_it_should_return_false_if_val_not_in_list_low_val"
-]
